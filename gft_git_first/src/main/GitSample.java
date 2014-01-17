@@ -3,6 +3,6 @@ package main;
 public class GitSample {
 
 	public static void main() {
-		System.out.println("hello all2");
+		System.out.println("hello all3");
 	}
 }
